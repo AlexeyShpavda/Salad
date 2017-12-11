@@ -1,0 +1,5 @@
+Tomato 500 30 6
+Сucumber 800 52 12,8
+Greens 50 20 8,9
+Dill 50 30 10
+Radish 200 50 9

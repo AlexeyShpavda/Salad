@@ -1,0 +1,7 @@
+E:\Programs\C#\Salad\Salad\bin\Debug\Salad.exe.config
+E:\Programs\C#\Salad\Salad\bin\Debug\Salad.exe
+E:\Programs\C#\Salad\Salad\bin\Debug\Salad.pdb
+E:\Programs\C#\Salad\Salad\obj\Debug\Salad.csprojResolveAssemblyReference.cache
+E:\Programs\C#\Salad\Salad\obj\Debug\Salad.csproj.CoreCompileInputs.cache
+E:\Programs\C#\Salad\Salad\obj\Debug\Salad.exe
+E:\Programs\C#\Salad\Salad\obj\Debug\Salad.pdb

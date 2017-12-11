@@ -1,0 +1,6 @@
+Name: Greens    |Weight: 50  |Caloricity: 20 |Price: 8,9 
+Name: Tomato    |Weight: 500 |Caloricity: 30 |Price: 6   
+Name: Dill      |Weight: 50  |Caloricity: 30 |Price: 10  
+Name: Radish    |Weight: 200 |Caloricity: 50 |Price: 9   
+Name: Сucumber  |Weight: 800 |Caloricity: 52 |Price: 12,8
+СaloriesInSalad: 182

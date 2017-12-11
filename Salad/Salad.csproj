@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Breakers\LineBreaker.cs" />
+    <Compile Include="Interfaces\IReadFiles.cs" />
+    <Compile Include="Interfaces\IWriteToFiles.cs" />
+    <Compile Include="Models\Salad.cs" />
+    <Compile Include="Models\Vegetable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
